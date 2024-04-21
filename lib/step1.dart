@@ -7,11 +7,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter image scroll parallax',
+      title: 'Flutter image scroll parallax my version',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter image scroll parallax'),
+      home: MyHomePage(title: 'Flutter image scroll parallax my version'),
     );
   }
 }
